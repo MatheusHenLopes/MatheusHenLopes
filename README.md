@@ -2,8 +2,6 @@
   
   <img src="https://github.com/user-attachments/assets/f1205d09-d228-4413-94fb-7dcc0c72e749" width="480" height="274" alt="Banner" />
 
-  <br/><br/>
-
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=750&lines=T%C3%89CNICO+EM+INFORM%C3%81TICA;BACKEND%2C+CIBERSEGURAN%C3%87A+E+CLOUD" alt="Typing SVG" />
 </div>
 
@@ -15,7 +13,6 @@
   <img height="38" src="https://img.shields.io/badge/LINGUAGEM_C-0A0A0C?style=for-the-badge&logo=c&logoColor=FFFFFF&labelColor=DC2626" />
   <img height="38" src="https://img.shields.io/badge/CIBERSEGURANCA-0A0A0C?style=for-the-badge&logo=hackthebox&logoColor=FFFFFF&labelColor=DC2626" />
   <img height="38" src="https://img.shields.io/badge/LINUX-0A0A0C?style=for-the-badge&logo=linux&logoColor=FFFFFF&labelColor=DC2626" />
-  <img height="38" src="https://img.shields.io/badge/HARDWARE_%26_REDES-0A0A0C?style=for-the-badge&logo=pcgamingwiki&logoColor=FFFFFF&labelColor=DC2626" />
   <br/><br/>
   <img height="38" src="https://img.shields.io/badge/CLOUD_(AWS)-0A0A0C?style=for-the-badge&logo=icloud&logoColor=52525B&labelColor=2A0404" />
   <img height="38" src="https://img.shields.io/badge/POSTGRESQL-0A0A0C?style=for-the-badge&logo=postgresql&logoColor=52525B&labelColor=2A0404" />
@@ -48,7 +45,7 @@ Gerenciador de senhas local Zero-Knowledge via terminal, validação por PIN nat
 <br clear="left"/>
 
 <div align="center">
-  <a href="https://github.com/MathHenLopes/honeyguard">
+  <a href="https://github.com/MatheusHenLopes/honeyguard">
     <img src="https://img.shields.io/badge/Acessar_Reposit%C3%B3rio-honeyguard-0A0A0C?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=8B0000" />
   </a>
 </div>
@@ -75,7 +72,7 @@ Sistema lógico para triagem de vagas técnicas, cruzamento de requisitos e elim
 <br clear="left"/>
 
 <div align="center">
-  <a href="https://github.com/MathHenLopes/vaga-track">
+  <a href="https://github.com/MatheusHenLopes/vaga-track">
     <img src="https://img.shields.io/badge/Acessar_Reposit%C3%B3rio-vagatrack-0A0A0C?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=8B0000" />
   </a>
 </div>
@@ -83,8 +80,8 @@ Sistema lógico para triagem de vagas técnicas, cruzamento de requisitos e elim
 <br/>
 <hr/>
 
-<!-- 5. Rodapé Clean: Frase à Esquerda + Sprite do Gaara à Direita -->
-<img align="right" width="135" hspace="20" src="https://media.tenor.com/uYXlLLNdnfwAAAAi/gaara.gif" alt="Gaara Pixel Art" />
+
+<img align="center" width="135" hspace="20" src="https://tenor.com/pt-PT/view/gaara-sand-whyno-blanktomb-gif-18948393" alt="Gaara Pixel Art" />
 
 <br/>
 
