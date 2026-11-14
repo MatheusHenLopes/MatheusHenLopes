@@ -80,9 +80,7 @@ Sistema lógico para triagem de vagas técnicas, cruzamento de requisitos e elim
 <br/>
 <hr/>
 
-<img align="right" width="150" hspace="22" src="https://github.com/user-attachments/assets/7c1044a2-5819-4fcf-a5a0-e6ed5062de47" alt="Gaara Pixel Art" />
-
-<br/>
+<img align="right" width="380" src="https://github.com/user-attachments/assets/7c1044a2-5819-4fcf-a5a0-e6ed5062de47" alt="Gaara Pixel Art" />
 
 <blockquote>
   <p align="left">
