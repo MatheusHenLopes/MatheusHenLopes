@@ -80,8 +80,7 @@ Sistema lógico para triagem de vagas técnicas, cruzamento de requisitos e elim
 <br/>
 <hr/>
 
-
-<img align="center" width="135" hspace="20" src="https://tenor.com/pt-PT/view/gaara-sand-whyno-blanktomb-gif-18948393" alt="Gaara Pixel Art" />
+<img align="center" width="135" hspace="20" src="https://github.com/user-attachments/assets/7c1044a2-5819-4fcf-a5a0-e6ed5062de47" alt="Gaara Pixel Art" />
 
 <br/>
 
