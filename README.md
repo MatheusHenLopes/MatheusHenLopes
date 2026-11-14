@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://i.pinimg.com/originals/de/73/4c/de734c7125f79ec9df713522d92920e7.gif" width="80%" height="190" style="object-fit: cover; border-radius: 8px;" alt="Banner" />
+  <img src="https://i.pinimg.com/originals/de/73/4c/de734c7125f79ec9df713522d92920e7.gif" width="100%" height="190" style="object-fit: cover; border-radius: 8px;" alt="Banner" />
 
   <p align="center">
     <i>“Preoccupied with a single leaf... you won't see the tree. Preoccupied with a single tree... you'll miss the entire forest."</i>
