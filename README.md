@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/de/73/4c/de734c7125f79ec9df713522d92920e7.gif" width="100%" height="220" style="object-fit: cover; border-radius: 8px;" alt="Banner" />
 
   <p align="center">
-    <i>“Preoccupied with a single leaf... you won't see the tree. Preoccupied with a single tree... you'll miss the entire forest. Don't be preoccupied with a single spot. See everything in it's entirety... effortlessly. That is what it means to truly "see.”"</i>
+    <i>“Preoccupied with a single leaf... you won't see the tree. Preoccupied with a single tree... you'll miss the entire forest."</i>
   </p>
 
   <p align="center">
